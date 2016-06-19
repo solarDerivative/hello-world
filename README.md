@@ -1,2 +1,5 @@
 # hello-world
-1st repository
+Hello
+
+I am learning things
+My head itches
